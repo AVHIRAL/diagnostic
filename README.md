@@ -2,8 +2,6 @@
 
 **AVHIRAL Linux Security Toolkit** est une boîte à outils défensive destinée à auditer et durcir rapidement un système Linux, Debian ou Raspberry Pi OS avant une phase de test de cybersécurité, de validation produit ou de démonstration technique.
 
-Le projet a été conçu dans le cadre des travaux AVHIRAL autour de solutions terrain comme **IRON-NET**, **IRONWALL** et **StreamGuard AI**.
-
 ## Objectif
 
 L’objectif est simple :
