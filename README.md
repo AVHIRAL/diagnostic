@@ -12,6 +12,11 @@ L’objectif est simple :
 - préparer la machine avant un audit ou un test d’intrusion encadré ;
 - appliquer, si nécessaire, des protections de base via un script de durcissement séparé.
 
+## Utilisation
+
+`chmod +x diagnostic_linux.py
+python3 -u diagnostic_linux.py --output-dir /root`
+
 ## Scripts inclus
 
 ### `diagnostic_linux.py`
