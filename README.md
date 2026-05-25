@@ -14,8 +14,9 @@ L’objectif est simple :
 
 ## Utilisation
 
-`chmod +x diagnostic_linux.py
-python3 -u diagnostic_linux.py --output-dir /root`
+`chmod +x diagnostic_linux.py`
+
+`python3 -u diagnostic_linux.py --output-dir /root`
 
 ## Scripts inclus
 
